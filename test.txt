@@ -1,1 +1,2 @@
 QA Homework 23: initial test file
+Step 1: Test cases checklist added
